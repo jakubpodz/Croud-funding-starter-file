@@ -2,23 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
-.background {
-  background-color: #644df6;
+.background{
+    background-color: #f7f7f7;
 }
 
-.backgroundMain {
-  background-color: #1a1a1a;
+.backgroundMain{
+    background-color: #1a1a1a;
 }
 
 .newColor {
-  color: #1a1a1a;
+    background-color: #1a1a1a;
 }
 
 .coverLine {
-  width: 100%;
-  height: 2rem;
-  background-color: #fff;
-  position: absolute;
-  bottom: -1.9rem;
-  z-index: 3;
+    width: 100%;
+    height: 100%;
+    background-color:azure;
+    position: absolute;
+    bottom: -1.9rem;
+    z-index: 3;
 }
+
